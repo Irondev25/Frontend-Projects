@@ -1,0 +1,31 @@
+.row{
+    margin-top: 40px;
+}
+
+.btn-custom{
+    width: 100%;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.btn-custom:hover{
+    background-color: #E0E0E0;
+}
+
+.sidebar2{
+    margin-top: 150px;
+}
+
+.col-md-3{
+    text-align: center;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+.result{
+    margin-top: 50px;
+}
