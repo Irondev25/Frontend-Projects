@@ -4,3 +4,12 @@ body{
     background-position: center;
     font-family: 'Catamaran', sans-serif;
 }
+
+h1, p, span{
+    color: white;
+}
+
+.perfect{
+    margin-top: 15%;
+    text-align: center;
+}

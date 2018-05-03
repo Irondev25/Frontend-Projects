@@ -1,0 +1,49 @@
+.p-pad{
+    margin-left: 10px;
+    margin-bottom: 1px;
+    font-size: 13px;
+}
+
+.below{
+    position: relative;
+}
+
+.above{
+    position: absolute;
+    top: 0px;
+    right: 213px;
+    left: 213px;
+}
+
+.team-members{
+    margin-top: 45px;
+    text-align: center;
+    margin-bottom: 45px;
+}
+
+.team-h2{
+    margin-top: 10px;
+}
+
+.divider{
+    border-top: solid 1px grey;
+}
+
+.contents{
+    margin-top: 40px;
+    text-align: center;
+}
+
+.content-h2{
+    padding-top: 30%;
+}
+
+footer{
+    margin-top: 20px;
+    font-size: 15px;
+    color: #9E9E9E;
+}
+
+.f-right{
+    text-align: right;
+}
